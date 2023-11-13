@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "Exploratory_data"
+version = "0.1.0"
+description = "Data"
+authors = ["Siia"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
